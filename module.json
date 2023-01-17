@@ -1,15 +1,15 @@
 {
-  "id": "Kobold-King-Maps-Remake-by-taurah",
-  "title": "Kobold King Maps Remake by Taurah",
+  "id": "kobold-king-maps-remade-by-taurah",
+  "title": "Kobold King Maps Remade by Taurah",
   "description": "Remade maps for the PF2e Adventure, Crown of the Kobold King.",
-  "url": "https://github.com/Taurahh/Kobold-King-Maps-Remake-by-Taurah",
+  "url": "https://github.com/ExampleRepo/PF2e-Example",
   "version": "1.0",
   "authors": [
     {"name": "Taurah"},
   ],
   "compatibility": {
-    "minimum": "10.291",
-    "verified": "10.291"
+    "minimum": "10.285",
+    "verified": "10.285"
   },
   "relationships": {
     "systems": [{
@@ -21,5 +21,16 @@
       }
     }]
   },
-  "packs": []
+  "packs": ["packs": [
+    {
+      "label": "Crown of the Kobold King maps remade",
+      "type": "Scene",
+      "name": "kobold-king-maps-remade-by-taurah",
+      "path": "./packs/crown-of-the-kobold-king-maps-remade-by-taurah.db",
+      "system": "pf2e",
+      "package": "kobold-king-maps-remade-by-taurah",
+      "private": false
+    }
+
+]]
 }
