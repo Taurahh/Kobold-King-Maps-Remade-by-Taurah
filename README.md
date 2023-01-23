@@ -3,7 +3,7 @@ Remade maps for the PF2e Adventure, Crown of the Kobold King. Lighting and walls
 Some of these maps are VERY BIG, because I like to give more room for combat, etc. You can adjust the grid size as needed. 
 
 Known Issues:
-<p>Some scenes throw an erorr on load because they are attempting to load an ambient sound file that isn't included with this module (and it won't be). This doesn't affect anything and can be ignored.
+<p>Some doors may be open, shut, or locked that differ from the source material. Please double check when prepping your scenes.
 
 Credit
 <p>Paizo - original maps and the adventure.
