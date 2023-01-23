@@ -2,6 +2,9 @@
 Remade maps for the PF2e Adventure, Crown of the Kobold King. Lighting and walls are all set up for you to use! I tried to be as true to the book as I could, but some artistic liberty was taken to add more interest to the maps. 
 Some of these maps are VERY BIG, because I like to give more room for combat, etc. You can adjust the grid size as needed. 
 
+Known Issues:
+<p>Some scenes throw an erorr on load because they are attempting to load an ambient sound file that isn't included with this module (and it won't be). This doesn't affect anything and can be ignored.
+
 Credit
 <p>Paizo - original maps and the adventure.
 <p>DungeonDraft - Program  used to create the dungeon maps.
